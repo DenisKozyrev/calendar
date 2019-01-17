@@ -666,6 +666,13 @@
   background: white;
   cursor: not-allowed;
 }
+.rc-calendar-year-panel-cell-disabled .rc-calendar-year-panel-year {
+  color: #bfbfbf;
+}
+.rc-calendar-yaer-panel-cell-disabled .rc-calendar-year-panel-year:hover {
+  background: white;
+  cursor: not-allowed;
+}
 .rc-calendar-month-panel-selected-cell .rc-calendar-month-panel-month {
   background: #3fc7fa;
   color: #fff;
